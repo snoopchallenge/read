@@ -3,7 +3,7 @@ To draw a straight-line at right-angles to a given straight-line from a given po
 Let {AB line} be the given straight-line, and {C point} the given point on it.
 So it is required to draw a straight-line from the point {C point} at right-angles to the straight-line {AB line}.
 
-Let the point {D point} be have been taken somewhere on {AC line}, and let {CE line} be made equal to {CD line} [Prop. 1.3], and let the equilateral triangle {FDE polygon} have been constructed on {DE line} [Prop. 1.1], and let {FC line} have been joined.
+Let the point {D point} have been taken somewhere on {AC line}, and let {CE line} be made equal to {CD line} [Prop. 1.3], and let the equilateral triangle {FDE polygon} have been constructed on {DE line} [Prop. 1.1], and let {FC line} have been joined.
 I say that the straight-line {FC line} has been drawn at right-angles to the given straight-line {AB line} from the given point {C point} on it.
 
 For since {DC line} is equal to {CE line}, and {CF line} is common, the two (straight-lines) {DC line}, {CF line} are equal to the two (straight-lines), {EC line}, {CF line}, respectively.

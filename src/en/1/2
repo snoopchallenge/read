@@ -3,7 +3,7 @@ To place a straight-line equal to a given straight-line at a given point.
 Let {A point} be the given point, and {BC line} the given straight-line.
 So it is required to place a straight-line at point {A point} equal to the given straight-line {BC line}.
 
-For let the straight-line {AB line} have been joined from point {A point} to point {B point} [Post. 1], and let the equilateral triangle {DAB polygon} have been been constructed upon it [Prop. 1.1].
+For let the straight-line {AB line} have been joined from point {A point} to point {B point} [Post. 1], and let the equilateral triangle {DAB polygon} have been constructed upon it [Prop. 1.1].
 And let the straight-lines {AE line} and {BF line} have been produced in a straight-line with {DA line} and {DB line} (respectively) [Post. 2].
 And let the circle {CGH circle B} with center {B point} and radius {BC line} have been drawn [Post. 3],
 and again let the circle {GKL circle D} with center {D point} and radius {DG line} have been drawn [Post. 3].
